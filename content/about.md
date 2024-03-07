@@ -23,4 +23,17 @@ Lets see a table of it!
 
 **This is it!**
 
-This ~is~ was the about page.
+This ~~is~~ was the about page.
+
+Now its not.
+
+
+
+
+
+
+
+
+
+
+
