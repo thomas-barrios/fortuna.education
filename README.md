@@ -7,7 +7,4 @@ Esta é a HOME page 2! editada 1
 
 ## Explore
 
-{{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
-{{< /cards >}}
+Agora este é um README.md bem magrinho.
