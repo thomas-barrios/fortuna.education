@@ -3,7 +3,7 @@ title: Home2 fortuna.education
 toc: false
 ---
 
-Esta é a HOME page 2!
+Esta é a HOME page 2! editada 1
 
 ## Explore
 
