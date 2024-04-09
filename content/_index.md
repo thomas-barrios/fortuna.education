@@ -1,5 +1,5 @@
 ---
-title: fortuna.education
+title: Home Fortuna Education
 toc: false
 ---
 
