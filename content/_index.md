@@ -10,6 +10,7 @@ Está é a Landing Page, agora atualizada!
 {{< cards >}}
   {{< card link="docs" title="Docs" icon="book-open" >}}
   {{< card link="about" title="About" icon="user" >}}
+  {{< card link="crencas-sobre-riqueza" title="Crenças sobre a Riqueza" icon="book-open" >}}
 {{< /cards >}}
 
 ## Documentation
