@@ -7,4 +7,4 @@ Esta é a HOME page 2! editada 1
 
 ## Explore
 
-Agora este é um README.md bem magrinho.
+Agora este é um README.md bem magrinho. Magrinho mesmo.
