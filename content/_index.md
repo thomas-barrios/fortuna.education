@@ -3,7 +3,7 @@ title: fortuna.education
 toc: false
 ---
 
-Está é a Landing Page
+Está é a Landing Page, agora atualizada!
 
 ## Explore
 
