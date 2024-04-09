@@ -1,9 +1,9 @@
 ---
-title: My Site
+title: fortuna.education
 toc: false
 ---
 
-This is the landing page.
+Está é a Landing Page
 
 ## Explore
 
