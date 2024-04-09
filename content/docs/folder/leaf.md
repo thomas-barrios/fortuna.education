@@ -5,12 +5,12 @@ prev: docs/folder/
 ---
 
 
-NOme4 do procvesso
+Nome do Processo
 ------------------
 Este processo é sobre isso
 
 ## Primeira parte do processo
 
-Faça iosso
+Faça isso assim.
 
 This page is under a folder.

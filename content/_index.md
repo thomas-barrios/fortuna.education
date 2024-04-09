@@ -14,4 +14,4 @@ Está é a Landing Page, agora atualizada!
 
 ## Documentation
 
-For more information, visit [Hextra](https://imfing.github.io/hextra).
+For more information, visit [About](/about.md).
