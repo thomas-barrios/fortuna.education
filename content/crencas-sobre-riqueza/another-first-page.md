@@ -2,7 +2,7 @@
 title: Demo Page
 type: docs
 prev: /
-next: docs/folder/
+next: crencas-sobre-riqueza/folder/
 ---
 
 ### Crenças sobre dinheiro
