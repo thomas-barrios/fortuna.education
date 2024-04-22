@@ -1,7 +1,7 @@
 ---
 title: Leaf Page
 type: docs
-prev: crencas-sobre-riqueza/folder/
+prev: enriquecer-para-caler/folder/
 ---
 
 

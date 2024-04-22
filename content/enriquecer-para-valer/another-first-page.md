@@ -2,7 +2,7 @@
 title: Demo Page
 type: docs
 prev: /
-next: crencas-sobre-riqueza/folder/
+next: enriquecer-para-valer/folder/
 ---
 
 ### Crenças sobre dinheiro

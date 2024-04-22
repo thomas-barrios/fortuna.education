@@ -1,8 +1,8 @@
 ---
 title: Folder
 type: docs
-prev: crencas-sobre-riqueza/another-first-page
-next: crencas-sobre-riqueza/folder/leaf
+prev: enriquecer-para-valer/another-first-page
+next: enriquecer-para-valer/folder/leaf
 sidebar:
   open: true
 ---
