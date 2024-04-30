@@ -18,7 +18,7 @@ Isso quero um paragrafo
 | pirmiara linha | descrição   |
 
 
-## Titulo Onboarding]
+## Titulo Onboarding
 
 açlksdjfçklasjdf lçkasdk façlksd fklajs dfç jaçdfjçsd
 çlkasj dfjaçlsdfjçlakjsf
@@ -27,8 +27,8 @@ açlksdjfçklasjdf lçkasdk façlksd fklajs dfç jaçdfjçsd
 
 01. Não pode ser filha da puta!!!!
 
-Isso mesmo tem de ser gente boa
-
+Isso mesmo tem de ser gente boa.
 
 02. Respeite o amiguinho!!!!
 
+Não aceitamos disrespeito de ninguem com ninguem.
