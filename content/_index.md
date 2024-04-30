@@ -11,6 +11,7 @@ Está é a Landing Page, agora atualizada!
   {{< card link="docs" title="Docs" icon="book-open" >}}
   {{< card link="about" title="About" icon="user" >}}
   {{< card link="enriquecer-para-valer" title="Eriquecer pra Valer!" icon="book-open" >}}
+   {{< card link="onboarding" title="Eriquecer pra Valer!" icon="book-open" >}}
 {{< /cards >}}
 
 ## Documentation
