@@ -6,6 +6,8 @@ type: about
 Esta é a página About - Sobre nós
 ==========
 
+Este coneúdo foi alterado dia 14/05/2024
+
 Este é o resumo do primeiro programa:
 
 Agora editado no Notepad++.
